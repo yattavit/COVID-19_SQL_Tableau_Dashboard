@@ -43,6 +43,7 @@ Based on the dataset, From 01/01/2020 to 06/07/2023, we observe that:
 	- Oceania
 
 > Within the SEA region:
+
 - The mortality rate from COVID-19 is about 1.02%
 - The country with the highest reported # of COVID-19 related deaths is Indonesia
 - Conversely, Singapore is ranked fourth with respect to having the least amount of COVID-19 related deaths in SEA
